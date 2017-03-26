@@ -1,0 +1,14 @@
+uuid: 1aca16c2-3d75-431c-b49d-403edc72f4dd
+name: 'Fabrika Design'
+mail: nillarm.na@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
